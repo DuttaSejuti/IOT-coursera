@@ -1,8 +1,6 @@
-1.dentify and analyze a device that is an IoT device now, but in the past was a non-IoT device. 
+1.Identify and analyze a device that is an IoT device now, but in the past was a non-IoT device. 
 Describe and list the features of the device. 
 Compare the functions of the device in the past to the functions of the device now.
-
-
 Ans-
 Automated doors used in the supermarkets are a kind of IOT device. But in the past there were only wood or glass doors that had to be opened with the
 hands of a person.
@@ -19,15 +17,14 @@ It also was not connected with anything.
 
 
 2.Compare the functions of the device in the past to the functions of the device now.
-
 Ans-
 **Comparison**
 In the past doors were supposed to open with the help of a persons hand that is not needed with a automated door.
 It did not have any sensors.
 It also was not connected with anything.
 
-3.For your chosen IoT device, list any improvements or any diminishments if they exist, over the non-IOT device. Describe any limitations that are present in the new IoT version of the device.
 
+3.For your chosen IoT device, list any improvements or any diminishments if they exist, over the non-IOT device. Describe any limitations that are present in the new IoT version of the device.
 Ans-
 
 **Improvements**
@@ -37,11 +34,7 @@ Automated doors can be also used on homes and can be connected with the home sec
 For being a IOT devices if the sensors are somehow damaged then it can not sense a persons' presence.So the automated door will not work then..Even if the door is connected through wifi and the connection is lost for some time the door aldo will not work then.
 
 
-
 4.Describe any privacy issues with the IoT device that never existed in the original version of the device. Compare the price of the original device to the price of the new IoT version of the device. When performing a price comparison, attempt to normalize for the changing value of currency over time by using an online inflation calculator
-
-
-
 Ans-
 
 **Privacy Issues**
