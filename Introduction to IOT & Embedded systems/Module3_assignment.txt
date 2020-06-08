@@ -1,0 +1,44 @@
+1.Research two microcontrollers and provide information about them from their datasheets. 
+There are several microcontroller manufacturers that you can investigate including Atmel,
+Microchip, Freescale, TI, etc. For each microcontroller, report the following information.
+(Be sure to include a link to an online reference where you found this information.)  
+
+*Clock frequency
+*Bitwidth of the datapath
+*Size of Flash memory
+*Number of pins
+*Does the microcontroller contain an Analog-to-Digital Converter? If so, how many bits of precision does it have?
+
+
+
+Ans- 1) Intel 8051 microcontroller
+             *Clock frequency : 12MHz
+             *Bitwidth of the datapath : 8bit
+             *Size of Flash memory : 8Kb
+             *Number of pins : 40 pins
+             *Does the microcontroller contain an Analog-to-Digital Converter : Yes,it has. And it has 24 bits of precision.
+https://html.alldatasheet.com/html-pdf/107780/INTEL/8051/147/1/8051.html 
+
+2) ATmega328 microcontroller
+             *Clock frequency : 20MHz
+             *Bitwidth of the datapath : 8bit
+             *Size of Flash memory : 32Kb
+             *Number of pins : 44 pins
+             *Does the microcontroller contain an Analog-to-Digital Converter : Yes,it has. And it has 10 bits of precision.
+https://www.microchip.com/wwwproducts/en/ATmega328
+
+
+
+2.Research the Arduino and Raspberry Pi platforms. 
+
+Indicate if there are operating systems which can be used on each platform. 
+If there are, list those operating systems
+State whether the operating systems are open source or not. 
+
+
+Ans- Arduino : Arduino doesn't have any operating system 
+     Rasberry Pi : Rasberry Pi can use different operating systems. Like: Raspbian , openelec , osmc.
+
+osmc is an open source operating system.
+raspbian is also an open source operating system
+openelec is also an open source operating system.

@@ -1,0 +1,67 @@
+1.Identify two embedded systems that are sold on the market today and analyze their interfaces.
+
+Ans-
+1) Biometric attendance system.
+This system is used for taking attendance of the students in an educational institution.
+A student can ensure his attendance through his finger prints.This can also be used in offices 
+or in certain rooms where entrance is restricted.
+
+2) Cash registers.
+This system is mainly used in the supermarkets.The cashier  when ensure the payment of 
+the products by a customer only then the cash register will open and the cashier can put money 
+on the drawer and give changes to the customer.This system is also connected with a display to
+ show the purchase list.This display may or may not be touch supported. 
+
+2.Describe all inputs to each system and outputs from each system.
+
+Ans-
+1) Attendance system
+input:
+-finger print
+-password
+
+output:
+-indicating sounds for both acceptance and denial
+-give access to the premises 
+
+2) Cash registers
+input:
+-signal for the complete purchase
+-completion of the payment
+-push to close the drawer again
+-giving inputs to the monitor
+
+output:
+-opens the drawer
+-gives access to the money inside the drawer
+-indicating sound for both opening and closing of the drawer
+-displays the money receipt on the display
+
+3.Classify the inputs and outputs based on their mode of interaction:
+
+-Visual - describing data carried by visible light
+
+-Audio - describing data carried by sound
+
+-Tactile - describing data carried by touch
+
+-Electronic - describing data encoded in electrical signals
+
+
+
+Ans-
+
+-Visible: 
+biometric system scans the finger print with light
+the cash register's display uses lights
+
+-Audio:
+acceptance/denial sound for the attendance system
+opening/closing sound for the cash register
+
+-Tactile:
+giving finger prints for the attendance system; inputting password on the number pad 
+typing on the screen for giving inputs for touchscreen display ; typing on the number pad for a non touchable display
+ 
+-Electronic:
+both of the system needs electricity to give power the systems.
